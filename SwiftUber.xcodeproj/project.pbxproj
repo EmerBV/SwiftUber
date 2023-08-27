@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7922BD7E2A9B398400EB1D20 /* RideType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7922BD7D2A9B398400EB1D20 /* RideType.swift */; };
+		7922BD802A9B534100EB1D20 /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7922BD7F2A9B534100EB1D20 /* Double.swift */; };
 		793BFD442A73FF6B0048EE19 /* MapViewState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793BFD432A73FF6B0048EE19 /* MapViewState.swift */; };
 		793BFD472A7410980048EE19 /* RideRequestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793BFD462A7410980048EE19 /* RideRequestView.swift */; };
 		793BFD492A7417220048EE19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 793BFD482A7417220048EE19 /* Assets.xcassets */; };
@@ -45,6 +46,7 @@
 
 /* Begin PBXFileReference section */
 		7922BD7D2A9B398400EB1D20 /* RideType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideType.swift; sourceTree = "<group>"; };
+		7922BD7F2A9B534100EB1D20 /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
 		793BFD432A73FF6B0048EE19 /* MapViewState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewState.swift; sourceTree = "<group>"; };
 		793BFD462A7410980048EE19 /* RideRequestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideRequestView.swift; sourceTree = "<group>"; };
 		793BFD482A7417220048EE19 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../../../../Downloads/Assets.xcassets; sourceTree = "<group>"; };
@@ -178,6 +180,7 @@
 		79496D372A72E73700B757E1 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
+				7922BD7F2A9B534100EB1D20 /* Double.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -387,6 +390,7 @@
 				79496D412A72EBCD00B757E1 /* LocationManager.swift in Sources */,
 				79496D492A72F8E900B757E1 /* MapViewActionButton.swift in Sources */,
 				793BFD472A7410980048EE19 /* RideRequestView.swift in Sources */,
+				7922BD802A9B534100EB1D20 /* Double.swift in Sources */,
 				793BFD442A73FF6B0048EE19 /* MapViewState.swift in Sources */,
 				79496D0C2A72E46100B757E1 /* SwiftUberApp.swift in Sources */,
 				79496D3F2A72E88C00B757E1 /* UberMapViewRepresentable.swift in Sources */,
