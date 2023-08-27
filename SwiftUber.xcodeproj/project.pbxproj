@@ -10,6 +10,7 @@
 		7922BD7E2A9B398400EB1D20 /* RideType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7922BD7D2A9B398400EB1D20 /* RideType.swift */; };
 		7922BD802A9B534100EB1D20 /* Double.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7922BD7F2A9B534100EB1D20 /* Double.swift */; };
 		7922BD822A9B572300EB1D20 /* UberLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7922BD812A9B572300EB1D20 /* UberLocation.swift */; };
+		7922BD842A9B65A200EB1D20 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7922BD832A9B65A200EB1D20 /* Color.swift */; };
 		793BFD442A73FF6B0048EE19 /* MapViewState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793BFD432A73FF6B0048EE19 /* MapViewState.swift */; };
 		793BFD472A7410980048EE19 /* RideRequestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793BFD462A7410980048EE19 /* RideRequestView.swift */; };
 		793BFD492A7417220048EE19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 793BFD482A7417220048EE19 /* Assets.xcassets */; };
@@ -49,6 +50,7 @@
 		7922BD7D2A9B398400EB1D20 /* RideType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideType.swift; sourceTree = "<group>"; };
 		7922BD7F2A9B534100EB1D20 /* Double.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Double.swift; sourceTree = "<group>"; };
 		7922BD812A9B572300EB1D20 /* UberLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UberLocation.swift; sourceTree = "<group>"; };
+		7922BD832A9B65A200EB1D20 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		793BFD432A73FF6B0048EE19 /* MapViewState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewState.swift; sourceTree = "<group>"; };
 		793BFD462A7410980048EE19 /* RideRequestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideRequestView.swift; sourceTree = "<group>"; };
 		793BFD482A7417220048EE19 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../../../../Downloads/Assets.xcassets; sourceTree = "<group>"; };
@@ -184,6 +186,7 @@
 			isa = PBXGroup;
 			children = (
 				7922BD7F2A9B534100EB1D20 /* Double.swift */,
+				7922BD832A9B65A200EB1D20 /* Color.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -397,6 +400,7 @@
 				793BFD442A73FF6B0048EE19 /* MapViewState.swift in Sources */,
 				79496D0C2A72E46100B757E1 /* SwiftUberApp.swift in Sources */,
 				79496D3F2A72E88C00B757E1 /* UberMapViewRepresentable.swift in Sources */,
+				7922BD842A9B65A200EB1D20 /* Color.swift in Sources */,
 				79496D4F2A731B4800B757E1 /* LocationSearchViewModel.swift in Sources */,
 				79496D3D2A72E7E400B757E1 /* HomeView.swift in Sources */,
 				7922BD822A9B572300EB1D20 /* UberLocation.swift in Sources */,
